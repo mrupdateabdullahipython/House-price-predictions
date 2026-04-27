@@ -71,7 +71,7 @@ with col4:
     st.pyplot(fig2)
 
 # 🧠 MODEL EXPLANATION
-st.markdown("👨‍💻Project Created by Built mrupdateabdullahi")
+st.markdown("👨‍💻Project Created by mrupdateabdullahi")
 st.subheader("🧠 Model Explanation")
 
 st.write("""
