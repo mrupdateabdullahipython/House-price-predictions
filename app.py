@@ -71,7 +71,7 @@ with col4:
     st.pyplot(fig2)
 
 # 🧠 MODEL EXPLANATION
-st.markdown("👨‍💻Project Created by Built mrupdateabdullahi"")
+st.markdown("👨‍💻Project Created by Built mrupdateabdullahi")
 st.subheader("🧠 Model Explanation")
 
 st.write("""
@@ -85,5 +85,5 @@ The model achieved a high accuracy (R² ≈ 0.9), meaning it can explain about 9
 """)
 
 # 📌 FOOTER
-st.markdown("👨‍💻 Project Created by mrupdateabdullahi)
+st.markdown("👨‍💻 Project Created by mrupdateabdullahi")
 st.caption("Built with ❤️ using Streamlit & Machine Learning")
